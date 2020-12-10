@@ -4,7 +4,7 @@ A series of JOIN queries to retrieve data from a Personal Trainer's relational d
 
 To Run: 
 1. Open MySQL Workbench or run the following scripts from the Command Line
-2. First run 'personaltrainer-schema-and-data.sql' (script provided)
+2. First run 'personaltrainer-schema-and-data.sql' to create the database (script provided)
 3. Then run 'JoinQueries.sql'
 
 Technologies: MySQL
